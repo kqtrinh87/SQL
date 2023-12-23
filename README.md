@@ -8,6 +8,5 @@
 
 ## Thank you for stopping by, and I hope you find my work both interesting and indicative of my potential in the field of data analytics.
 
-### Best regards,
-### Khanh Trinh
-### kqtrinh87@gmail.com
+Best regards,
+Khanh Trinh
